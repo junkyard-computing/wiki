@@ -10,7 +10,7 @@ keywords: {Smart phones;Heart beat;Task analysis;Batteries;Time factors;Benchmar
 
 ## GPU Support for Google Pixel Fold
 
-[junkyard-gpu](https://github.com/junkyard-computing/junkyard-gpu/tree/main)
+[The junkyard-gpu repository](https://github.com/junkyard-computing/junkyard-gpu/tree/main)
 
 The repository linked above also documents the procedure to flash and setup the phones.
 
